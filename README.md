@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I'm currently working on refactoring my next.js budget web app.<br>🌱 I'm learning more about TypeScript, SQL, and innovating for the front end.<br>⛓️ I'm interested in exploring building decentralized apps and blockchain technology.<br>🏄I enjoy surfing in my free time and I'm currently learning Arabic for fun.
+🔭 I'm currently working on refactoring my next.js budget web app.<br>🌱 I'm learning more about TypeScript, SQL, and innovating for the front end.<br>⛓️ I'm interested in building decentralized apps and blockchain technology.<br>🏄I enjoy surfing in my free time and I'm currently learning Arabic for fun.
 
 
 ## 🌐 Socials:
